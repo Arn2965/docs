@@ -168,6 +168,7 @@
 
 * [Python](https://github.com/wayscript/wayscript-python)
 * [JavaScript](https://github.com/wayscript/wayscript-js)
+* [CLI Tool \(alpha release\)](apis/cli-tool-alpha-release.md)
 
 ## Account Management
 
