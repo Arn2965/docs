@@ -123,6 +123,6 @@ Each code module is identified by a line with metadata in the format:  `󰀇 m.0
 {% endhint %}
 
 {% hint style="success" %}
-For those that develop within Visual Studio Code, our team has developed an extension to reintroduce code language syntax highlighting and add special linting for our WayScript module identifier so you can easily edit your script's `.ws` file. You can download it here: [https://github.com/wayscript/ws-syntax-extension](https://github.com/wayscript/ws-syntax-extension). 
+For those that develop within Visual Studio Code, our team has developed an extension to reintroduce code language syntax highlighting so you can easily write code within your script's `.ws` file. You can download it here: [https://github.com/wayscript/ws-syntax-extension](https://github.com/wayscript/ws-syntax-extension). 
 {% endhint %}
 
