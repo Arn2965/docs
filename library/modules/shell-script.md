@@ -48,7 +48,7 @@ You can do this with the **variables associative array** in the following format
 variables["<Var Name>"]=value
 ```
 
-![You can also reference a WayScript variable to simplify assignment to an existing variable. ](../../.gitbook/assets/screen-shot-2020-07-19-at-1.02.37-pm.png)
+![You can also reference a WayScript variable as a shortcut for the associative array syntax.](../../.gitbook/assets/echolocationvarpill.png)
 
 ## ▶ Running a Shell Script <a id="running-javascript"></a>
 
