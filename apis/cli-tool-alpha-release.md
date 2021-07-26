@@ -2,9 +2,9 @@
 description: Interact with your scripts using WayScript's command line interface
 ---
 
-# CLI Tool \(alpha release\)
+# CLI \(alpha release\)
 
-The CLI tool can be used to sync files between your WayScript file system and your local machine and run your scripts from the command line. 
+WayScript's CLI can be used to sync files between your WayScript file system and your local machine and run your scripts from the command line. 
 
 {% hint style="danger" %}
 Please note that the WayScript CLI tool is in alpha development stage. Please reach out to us at nihar@wayscript.com or on Discord if you experience any unintended behavior.  
