@@ -133,6 +133,10 @@ This header should follow the standard for [HTTP basic access authentication](ht
 
 These headers are also displayed for you under each password in the "Login Credentials" section of the "Script Setup" tab.
 
+{% hint style="danger" %}
+WayScript recommends [Authenticating using your API Key](form-trigger.md#authenticating-using-your-api-key), as it is more secure than Basic Authentication.
+{% endhint %}
+
 ### Authenticating Using Your API Key
 
 If your endpoint is not public, you can also use your [WayScript API Key](../../account-management/managing-your-api-key.md) to access your endpoints api call by including an `Authorization: Bearer` header in your request.
